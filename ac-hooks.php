@@ -30,8 +30,8 @@ class acwebdev_Form_Webhook_Configurator {
 	 */
 	public function add_admin_menu() {
 		add_menu_page(
-			'acwebdev Form Webhook Configurator',
-			'acwebdev Webhooks',
+			'AC - Form Webhook Configurator',
+			'AC - Webhooks',
 			'manage_options',
 			'acwebdev-webhook-config',
 			[$this, 'settings_page'],
