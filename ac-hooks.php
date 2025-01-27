@@ -2,10 +2,10 @@
 
 
 /**
- * Plugin Name: acwebdev Form Webhook Configurator
+ * Plugin Name: Webhooks for CF7
  * Description: Add and manage Contact Form 7 forms and their webhook URLs in a WordPress admin panel.
- * Version: 1.2
- * Author: Your Name
+ * Version: 1
+ * Author: Adam Chiaravalle @ ACWebDev, LLC.
  */
 
 if (!defined('ABSPATH')) {
