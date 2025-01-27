@@ -1,4 +1,4 @@
-
+<?php
 
 
 /**
@@ -307,3 +307,5 @@ class acwebdev_Form_Webhook_Configurator {
 
 // Initialize the plugin
 new acwebdev_Form_Webhook_Configurator();
+
+?>
